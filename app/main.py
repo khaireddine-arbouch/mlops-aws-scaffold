@@ -8,7 +8,7 @@ class PredictRequest(BaseModel):
 
 @app.get("/")
 def root():
-    return {"message": "barsha"}
+    return {"message": "copy!!"}
 
 @app.get("/health")
 def health():
