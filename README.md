@@ -1,0 +1,1 @@
+[![Deploy to ECS Express Mode](https://github.com/khaireddine-arbouch/mlops-aws-scaffold/actions/workflows/deploy.yml/badge.svg)](https://github.com/khaireddine-arbouch/mlops-aws-scaffold/actions/workflows/deploy.yml)
